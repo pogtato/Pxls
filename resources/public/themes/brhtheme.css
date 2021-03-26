@@ -1,0 +1,92 @@
+html {
+    --general-text-color: #fff;
+    --general-background:url("https://cdn.discordapp.com/attachments/639908372858011653/787812268083642428/unknown.png");
+    --kbd-background: #000;
+    --kbd-border-color: #000;
+    --kbd-text-color: #000;
+    --input-text-color: #000;
+    --input-background: #000;
+    --input-border-color: #000;
+    --input-placeholder-text-color: #000;
+    --button-background: #000;
+    --button-text-color: #000;
+    --button-border-color: #000;
+    --button-background-hover: #000;
+    --button-border-color-hover: var(--button-border-color);
+    --floating-panel-text-color: #000;
+    --floating-panel-border-color: #000;
+    --floating-panel-background: #000;
+    --dangerous-button-border-color: #000;
+    --dangerous-button-background: var(--text-orange-color);
+    --dangerous-button-text-color: #000;
+    --dangerous-button-background-hover: var(--input-background);
+    --dangerous-button-text-color-hover: #000;
+    --palette-background: #000;
+    --palette-overlay-background: #000;
+    --palette-deselect-button-color: #000;
+    --palette-number-text-color: #000;
+    --palette-number-background-color: #000;
+    --cursor-text-color: #000;
+    --cursor-text-background-color: #000;
+    --selection-color: #000;
+    --selection-background-color: #000;
+    --undo-background: #000;
+    --undo-text-color: #000;
+    --text-red-color: #000;
+    --text-yellow-color: #000;
+    --text-orange-color: #000;
+    --ping-highlight-color: #000;
+    --ping-counter-color: #000;
+    --panel-header-background: #000;
+    --panel-background: #000;
+    --panel-text-color: #000;
+    --panel-article-footer-background: #000;
+    --panel-article-footer-text-color: #000;
+    --panel-footer-background: #000;
+    --panel-close-button-color: #000;
+    --option-bubble-position-background-selected: #000;
+    --bubble-background: #000;
+    --bubble-text-color: #000;
+    --chat-separator-color: #000;
+    --chat-odd-background: #000;
+    --chat-mention-text-color: #000;
+    --chat-server-action-text-color: #000;
+    --chat-user-text-shadow-color: #000;
+    --chat-badge-background: #000;
+    --chat-badge-text-color: #000;
+    --emoji-picker-border-color: #000;
+    --emoji-picker-background: #000;
+    --emoji-picker-preview-name-text-color: #000;
+    --emoji-picker-tab-icon-color: #000;
+    --emoji-picker-tab-icon-color-selected: #000;
+    --emoji-picker-section-text-color: #000;
+    --emoji-picker-emoji-background-hover: #000;
+    --emoji-picker-search-input-border-color: #000;
+    --emoji-picker-search-input-background: #000;
+    --emoji-picker-search-input-text-color: #000;
+    --emoji-picker-search-icon-color: #000;
+    --emoji-picker-search-no-results-color: #000;
+    --emoji-picker-variant-overlay-background: #000;
+    --emoji-picker-variant-popup-background: #000;
+    --chat-typeahead-menu-background: #000;
+    --chat-typeahead-item-background: #000;
+    --chat-typeahead-item-background-hover: #000;
+    --chat-typeahead-item-background-active: #000;
+    --notification-expiry-color: #000;   
+}
+hr {
+    border: none;
+    border-top: 1px solid #000;
+}
+@keyframes -scrolled-flash {
+    from {
+        background: #000;
+    }
+    to {
+        background: #000;
+    }
+}
+    ::selection {
+    background-color: var(--selection-background-color);
+    color:var(--selection-color);
+}

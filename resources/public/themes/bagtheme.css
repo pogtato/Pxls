@@ -1,0 +1,91 @@
+html {
+    --general-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --general-background:url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --kbd-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --kbd-border-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --kbd-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --input-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --input-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --input-border-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --input-placeholder-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --button-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --button-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --button-border-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --button-background-hover: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --button-border-color-hover: var(--button-border-color);
+    --floating-panel-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --floating-panel-border-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --floating-panel-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --dangerous-button-border-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --dangerous-button-background: var(--text-orange-color);
+    --dangerous-button-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --dangerous-button-background-hover: var(--input-background);
+    --dangerous-button-text-color-hover: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --palette-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --palette-overlay-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --palette-deselect-button-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --palette-number-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --palette-number-background-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --cursor-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --cursor-text-background-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --selection-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --selection-background-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --undo-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --undo-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --text-red-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --text-yellow-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --text-orange-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --ping-highlight-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --ping-counter-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --panel-header-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --panel-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --panel-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --panel-article-footer-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --panel-article-footer-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --panel-footer-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --panel-close-button-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --option-bubble-position-background-selected: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --bubble-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --bubble-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-separator-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-odd-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-mention-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-server-action-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-user-text-shadow-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-badge-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-border-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-preview-name-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-tab-icon-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-tab-icon-color-selected: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-section-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-emoji-background-hover: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-search-input-border-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-search-input-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-search-input-text-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-search-icon-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-search-no-results-color: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-variant-overlay-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --emoji-picker-variant-popup-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-typeahead-menu-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-typeahead-item-background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-typeahead-item-background-hover: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --chat-typeahead-item-background-active: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    --notification-expiry-color:  url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+}
+hr {
+    border: none;
+    border-top: 1px solid #000
+}
+@keyframes -scrolled-flash {
+    from {
+        background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    }
+    to {
+        background: url("https://cdn.discordapp.com/attachments/750809199923036180/815969766421954600/760136526200832030_1-1.png_3_-_Copy.png");
+    }
+}
+    ::selection {
+    background-color: var(--selection-background-color);
+    color:var(--selection-color);
+}
